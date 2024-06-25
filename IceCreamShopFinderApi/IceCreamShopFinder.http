@@ -1,0 +1,6 @@
+@IceCreamShopFinder_HostAddress = http://localhost:5157
+
+GET {{IceCreamShopFinder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
